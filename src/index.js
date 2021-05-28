@@ -1,8 +1,8 @@
 import Persona from './persona'
 
-let edad = 30
+let edad = 35
 
 console.log(edad)
 
-const carlos = new Persona('Carlos')
+const carlos = new Persona('Andres')
 carlos.saluda()

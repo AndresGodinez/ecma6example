@@ -59,11 +59,11 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-	var edad = 30;
+	var edad = 35;
 
 	console.log(edad);
 
-	var carlos = new _persona2.default('Carlos');
+	var carlos = new _persona2.default('Andres');
 	carlos.saluda();
 
 /***/ }),
